@@ -1,0 +1,2 @@
+Tento kód implementuje jednoduchý perceptron, který se učí řešit logickou funkci AND. Perceptron je základní model umělé neuronové sítě, který se učí klasifikovat vstupy do dvou tříd (0 nebo 1) na základě trénovacích dat.
+Kód vytvoří a natrénuje perceptron, aby řešil logickou funkci AND.
